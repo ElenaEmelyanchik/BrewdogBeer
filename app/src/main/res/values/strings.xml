@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BrewdogBeer</string>
+    <string name="name">Name:</string>
+    <string name="abv">ABV:</string>
+    <string name="description">Description</string>
+    <string name="hops">Hops</string>
+    <string name="malts">Malts:</string>
+    <string name="methods">Methods:</string>
+</resources>
